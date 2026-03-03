@@ -12,7 +12,7 @@
   "plugins": [
     {
       "name": "session-manager",
-      "source": "session-manager",
+      "source": "./plugins/session-manager",
       "description": "Save, restore, and manage Claude Code session context"
     }
   ]
