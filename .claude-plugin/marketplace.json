@@ -4,11 +4,6 @@
     "name": "Andrew Hopper",
     "email": "hopperab@gmail.com"
   },
-  "metadata": {
-    "description": "HopperLabs Claude Code plugin marketplace",
-    "version": "1.0.0",
-    "pluginRoot": "./plugins"
-  },
   "plugins": [
     {
       "name": "session-manager",
